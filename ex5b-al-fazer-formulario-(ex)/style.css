@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(253, 245, 235);
+    color: rgb(142, 116, 82);
+}
+
+.span-custom{
+    background-color: rgb(255, 223, 181);
+    color: rgb(157, 131, 98);
+    border-color: rgb(157, 131, 98);
+    transition: 0.5s;
+}
+
+.span-custom:hover{
+    background-color: rgb(228, 197, 156);
+    color: rgb(117, 94, 64);
+    border-color: rgb(117, 94, 64);
+}
+
+.btn-custom{
+    background-color: rgb(255, 223, 181);
+    color: rgb(157, 131, 98);
+    border-color: rgb(157, 131, 98);
+    transition: 0.5s;
+}
+
+.btn-custom:hover{
+    background-color: rgb(228, 197, 156);
+    color: rgb(117, 94, 64);
+    border-color: rgb(117, 94, 64);
+}
+
+.form-custom{
+    background-color: rgb(219, 207, 191);
+    border-color: rgb(157, 131, 98);
+    transition: 0.5s;
+}
+
+.form-custom:hover{
+    background-color: rgb(202, 189, 171);
+    border-color: rgb(150, 124, 90);
+}
+
+.contei-custom{
+    background-color: rgb(255, 232, 203);
+    padding: 3vh 2vw 3vh 2vw;
+    border-radius: 20px;
+}
